@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:111C34,100:182A4D&height=200&section=header&text=Victor%20Esp%C3%ADnola&fontSize=52&fontColor=F5F7FA&fontAlignY=42&desc=BUSINESS%20INTELLIGENCE%20ANALYST&descAlignY=68&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1400&color=9AA5B8&center=true&vCenter=true&width=650&lines=Convierto+datos+en+decisiones+de+negocio;Power+BI+%7C+SQL+%7C+DAX+%7C+Automatización" />
+**Convierto datos en decisiones de negocio** · Power BI · SQL · DAX · Automatización
 
 <br>
 

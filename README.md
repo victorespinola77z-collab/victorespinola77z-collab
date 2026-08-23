@@ -107,19 +107,10 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 ## ESTADÍSTICAS DE GITHUB
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=victorespinola77z-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=F7B733&text_color=E5E7EB" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=victorespinola77z-collab&theme=tokyonight&hide_border=true&background=0B1220&stroke=38BDF8&ring=38BDF8&fire=F7B733&currStreakLabel=38BDF8" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=victorespinola77z-collab&theme=tokyonight" width="60%"/>
 </div>
 
 <br>
-
-## MÉTRICAS
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/victorespinola77z-collab?template=classic&base=header,activity,community,repositories&config.timezone=America/Asuncion)
-
-</div>
 
 <br>
 

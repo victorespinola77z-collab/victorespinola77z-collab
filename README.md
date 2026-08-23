@@ -32,6 +32,8 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Avanzado-F7B733?style=flat-square&logoColor=0F2027)
 <br>
 ![Excel](https://img.shields.io/badge/Excel-Avanzado-F7B733?style=flat-square&logoColor=0F2027)
+<br>
+![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
 
 </td>
 <td valign="top" width="25%">
@@ -60,43 +62,11 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 </td>
 <td valign="top" width="25%">
 
-**Ofimática**
-
-![Word](https://img.shields.io/badge/Word-Avanzado-B39DDB?style=flat-square&logoColor=0F2027)
-<br>
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Avanzado-B39DDB?style=flat-square&logoColor=0F2027)
-<br>
-![Teams](https://img.shields.io/badge/Teams-Avanzado-B39DDB?style=flat-square&logoColor=0F2027)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="25%">
-
-**Bases de Datos**
-
-![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
-
-</td>
-<td valign="top" width="25%">
-
 **Desarrollo Web**
 
 ![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
 <br>
 ![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
-
-</td>
-<td valign="top" width="25%">
-
-**CRM / ERP**
-
-![Salesforce](https://img.shields.io/badge/Salesforce-81C784?style=flat-square&logoColor=0F2027)
-<br>
-![SAP](https://img.shields.io/badge/SAP-81C784?style=flat-square&logoColor=0F2027)
-
-</td>
-<td valign="top" width="25%">
 
 </td>
 </tr>
@@ -109,8 +79,6 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=victorespinola77z-collab&theme=tokyonight" width="60%"/>
 </div>
-
-<br>
 
 <br>
 

@@ -1,13 +1,17 @@
-<img src="./assets/banner.svg" alt="Victor Espínola - Business Intelligence Analyst" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:111C34,100:182A4D&height=200&section=header&text=Victor%20Esp%C3%ADnola&fontSize=52&fontColor=F5F7FA&fontAlignY=42&desc=BUSINESS%20INTELLIGENCE%20ANALYST&descAlignY=68&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1400&color=9AA5B8&center=true&vCenter=true&width=650&lines=Convierto+datos+en+decisiones+de+negocio;Power+BI+%7C+SQL+%7C+DAX+%7C+Automatización" />
 
 <br>
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-victorespinola77z--collab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorespinola77z-collab)
 ![Perfil visitas](https://komarev.com/ghpvc/?username=victorespinola77z-collab&style=for-the-badge&color=182A4D&label=VISITAS)
 
 </div>
+
+<br>
 
 ## 🧭 Sobre mí
 
@@ -75,8 +79,14 @@ Analista de **Business Intelligence** enfocado en convertir datos crudos en deci
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorespinola77z-collab&theme=tokyonight&hide_border=true&background=0B1220&stroke=38BDF8&ring=38BDF8&fire=F7B733&currStreakLabel=38BDF8" width="48%"/>
 </div>
 
+<br>
+
+## 🧬 Metrics detallados
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorespinola77z-collab&theme=react-dark&hide_border=true&bg_color=0B1220&color=38BDF8&line=38BDF8&point=F7B733" width="97%"/>
+
+![Metrics](https://metrics.lecoq.io/victorespinola77z-collab?template=classic&base=header,activity,community,repositories&config.timezone=America/Asuncion)
+
 </div>
 
 <br>
@@ -84,12 +94,6 @@ Analista de **Business Intelligence** enfocado en convertir datos crudos en deci
 <div align="center">
 
 💬 *"Los datos no mienten, solo esperan ser interpretados."*
-
-<br><br>
-
-<a href="https://github.com/victorespinola77z-collab">
-<img src="https://img.shields.io/badge/Ver_perfil_completo-182A4D?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
 
 </div>
 

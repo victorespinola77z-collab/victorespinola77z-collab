@@ -13,13 +13,13 @@ Business Intelligence & Data Analytics | Power BI | SQL | Reporting Automation |
 
 <br>
 
-## 🧭 Sobre mí
+## ACERCA DE MÍ
 
-Analista de **Business Intelligence** enfocado en convertir datos crudos en decisiones de negocio. Trabajo el proceso completo: extracción y limpieza de datos, modelado, automatización de reportes y visualización ejecutiva en dashboards claros y accionables.
+Soy una persona apasionada por el aprendizaje constante y el crecimiento profesional. Me motiva enfrentar nuevos desafíos que me impulsen a mejorar, siempre con una mentalidad positiva y enfocado a resultados.
 
 <br>
 
-## 🧠 Stack técnico
+## PERFIL TECNICO
 
 <table width="100%">
 <tr>
@@ -30,13 +30,13 @@ Analista de **Business Intelligence** enfocado en convertir datos crudos en deci
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Avanzado-F7B733?style=flat-square&logo=looker&logoColor=0F2027)
 ![Excel](https://img.shields.io/badge/Excel-Avanzado-F7B733?style=flat-square&logo=microsoftexcel&logoColor=0F2027)
 
-**🗄️ Bases de Datos**
+**BASES DE DATOS**
 ![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logo=mysql&logoColor=0F2027)
 
 </td>
 <td valign="top" width="25%">
 
-**🧮 Modelado de Datos**
+**MODELADO DE DATOS**
 ![DAX](https://img.shields.io/badge/DAX-Avanzado-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027)
 ![Power Query](https://img.shields.io/badge/Power_Query-Avanzado-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027)
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-Avanzado-F7B733?style=flat-square&logo=microsoftexcel&logoColor=0F2027)
@@ -45,24 +45,24 @@ Analista de **Business Intelligence** enfocado en convertir datos crudos en deci
 </td>
 <td valign="top" width="25%">
 
-**⚙️ Automatización**
+**AUTOMATIZACIÓN**
 ![Power Automate](https://img.shields.io/badge/Power_Automate-Básico-64B5F6?style=flat-square&logo=powerautomate&logoColor=0F2027)
 ![Python](https://img.shields.io/badge/Python-Básico-64B5F6?style=flat-square&logo=python&logoColor=0F2027)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Básico-64B5F6?style=flat-square&logo=googlecolab&logoColor=0F2027)
 
-**💻 Desarrollo Web**
+**DESARROLLO WEB**
 ![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logo=html5&logoColor=0F2027)
 ![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=flat-square&logo=css3&logoColor=0F2027)
 
 </td>
 <td valign="top" width="25%">
 
-**🗂️ Ofimática**
+**OFIMÁTICA**
 ![Word](https://img.shields.io/badge/Word-Avanzado-B39DDB?style=flat-square&logo=microsoftword&logoColor=0F2027)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-Avanzado-B39DDB?style=flat-square&logo=microsoftpowerpoint&logoColor=0F2027)
 ![Teams](https://img.shields.io/badge/Teams-Avanzado-B39DDB?style=flat-square&logo=microsoftteams&logoColor=0F2027)
 
-**🔗 CRM / ERP**
+**CRM / ERP**
 ![Salesforce](https://img.shields.io/badge/Salesforce-81C784?style=flat-square&logo=salesforce&logoColor=0F2027)
 ![SAP](https://img.shields.io/badge/SAP-81C784?style=flat-square&logo=sap&logoColor=0F2027)
 
@@ -72,7 +72,7 @@ Analista de **Business Intelligence** enfocado en convertir datos crudos en deci
 
 <br>
 
-## 📈 Estadísticas de GitHub
+## ESTADÍSTICAS DE GITHUB
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=victorespinola77z-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=F7B733&text_color=E5E7EB" width="48%"/>
@@ -81,7 +81,7 @@ Analista de **Business Intelligence** enfocado en convertir datos crudos en deci
 
 <br>
 
-## 🧬 Metrics detallados
+## METRICAS
 
 <div align="center">
 

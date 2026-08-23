@@ -17,13 +17,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%"/>
 
-## 🧭 Sobre mí
+## Sobre mí
 
 > Analista especializado en **Business Intelligence**, con foco en modelado de datos, automatización de procesos y creación de dashboards que impulsan decisiones. Manejo el ciclo completo: desde la extracción y limpieza de datos, hasta la visualización ejecutiva.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%"/>
 
-## 📊 Business Intelligence
+## Business Intelligence
 
 <div align="left">
   <img src="https://img.shields.io/badge/Power%20BI-Avanzado-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027&labelColor=203A43"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Excel-Avanzado-F7B733?style=flat-square&logo=microsoftexcel&logoColor=0F2027&labelColor=203A43"/>
 </div>
 
-## 🧮 Modelado de Datos
+## Modelado de Datos
 
 <div align="left">
   <img src="https://img.shields.io/badge/DAX-Avanzado-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027&labelColor=203A43"/>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/VBA-Avanzado-F7B733?style=flat-square&logo=microsoftexcel&logoColor=0F2027&labelColor=203A43"/>
 </div>
 
-## ⚙️ Automatización
+## Automatización
 
 <div align="left">
   <img src="https://img.shields.io/badge/Power%20Automate-Básico-64B5F6?style=flat-square&logo=powerautomate&logoColor=0F2027&labelColor=203A43"/>
@@ -48,13 +48,13 @@
   <img src="https://img.shields.io/badge/Google%20Colab-Básico-64B5F6?style=flat-square&logo=googlecolab&logoColor=0F2027&labelColor=203A43"/>
 </div>
 
-## 🗄️ Bases de Datos
+## Bases de Datos
 
 <div align="left">
   <img src="https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logo=mysql&logoColor=0F2027&labelColor=203A43"/>
 </div>
 
-## 💻 Desarrollo Web
+## Desarrollo Web
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logo=html5&logoColor=0F2027&labelColor=203A43"/>
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-Avanzado-4DD0E1?style=flat-square&logo=visualstudiocode&logoColor=0F2027&labelColor=203A43"/>
 </div>
 
-## 🗂️ Ofimática
+## Ofimática
 
 <div align="left">
   <img src="https://img.shields.io/badge/Word-Avanzado-B39DDB?style=flat-square&logo=microsoftword&logoColor=0F2027&labelColor=203A43"/>
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Photoshop-Intermedio-B39DDB?style=flat-square&logo=adobephotoshop&logoColor=0F2027&labelColor=203A43"/>
 </div>
 
-## 🔗 CRM / ERP
+## CRM / ERP
 
 <div align="left">
   <img src="https://img.shields.io/badge/Salesforce-CRM-81C784?style=flat-square&logo=salesforce&logoColor=0F2027&labelColor=203A43"/>
@@ -83,7 +83,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%"/>
 
-## 📈 Estadísticas
+## Estadísticas
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%"/>
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
   <a href="https://github.com/victorespinola77z-collab">

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:111C34,100:182A4D&height=200&section=header&text=Victor%20Esp%C3%ADnola&fontSize=52&fontColor=F5F7FA&fontAlignY=42&desc=BUSINESS%20INTELLIGENCE%20ANALYST&descAlignY=68&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
-Business Intelligence & Data Analytics | Power BI | SQL | Reporting Automation | Front-End Development
+Business Intelligence & Data Analytics · Power BI · SQL · Reporting Automation · Front-End Development
 
 <br>
 
@@ -19,69 +19,72 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 
 <br>
 
-## PERFIL TECNICO
+## PERFIL TÉCNICO
 
-<table width="100%">
-<tr>
-<td valign="top" width="25%">
+**📊 &nbsp; Business Intelligence**
+<br>
+![Power BI](https://img.shields.io/badge/Power_BI-Avanzado-F7B733?style=for-the-badge&logo=powerbi&logoColor=0F2027)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Avanzado-F7B733?style=for-the-badge&logo=looker&logoColor=0F2027)
+![Excel](https://img.shields.io/badge/Excel-Avanzado-F7B733?style=for-the-badge&logo=microsoftexcel&logoColor=0F2027)
 
-**📊 Business Intelligence**
-![Power BI](https://img.shields.io/badge/Power_BI-Avanzado-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-Avanzado-F7B733?style=flat-square&logo=looker&logoColor=0F2027)
-![Excel](https://img.shields.io/badge/Excel-Avanzado-F7B733?style=flat-square&logo=microsoftexcel&logoColor=0F2027)
+<br>
 
-**BASES DE DATOS**
-![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logo=mysql&logoColor=0F2027)
+**🧮 &nbsp; Modelado de Datos**
+<br>
+![DAX](https://img.shields.io/badge/DAX-Avanzado-38BDF8?style=for-the-badge&logo=powerbi&logoColor=0F2027)
+![Power Query](https://img.shields.io/badge/Power_Query-Avanzado-38BDF8?style=for-the-badge&logo=powerbi&logoColor=0F2027)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-Avanzado-38BDF8?style=for-the-badge&logo=microsoftexcel&logoColor=0F2027)
+![VBA](https://img.shields.io/badge/VBA-Avanzado-38BDF8?style=for-the-badge&logo=microsoftexcel&logoColor=0F2027)
 
-</td>
-<td valign="top" width="25%">
+<br>
 
-**MODELADO DE DATOS**
-![DAX](https://img.shields.io/badge/DAX-Avanzado-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027)
-![Power Query](https://img.shields.io/badge/Power_Query-Avanzado-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027)
-![Power Pivot](https://img.shields.io/badge/Power_Pivot-Avanzado-F7B733?style=flat-square&logo=microsoftexcel&logoColor=0F2027)
-![VBA](https://img.shields.io/badge/VBA-Avanzado-F7B733?style=flat-square&logo=microsoftexcel&logoColor=0F2027)
+**⚙️ &nbsp; Automatización**
+<br>
+![Power Automate](https://img.shields.io/badge/Power_Automate-Básico-64B5F6?style=for-the-badge&logo=powerautomate&logoColor=0F2027)
+![Python](https://img.shields.io/badge/Python-Básico-64B5F6?style=for-the-badge&logo=python&logoColor=0F2027)
+![Google Colab](https://img.shields.io/badge/Google_Colab-Básico-64B5F6?style=for-the-badge&logo=googlecolab&logoColor=0F2027)
 
-</td>
-<td valign="top" width="25%">
+<br>
 
-**AUTOMATIZACIÓN**
-![Power Automate](https://img.shields.io/badge/Power_Automate-Básico-64B5F6?style=flat-square&logo=powerautomate&logoColor=0F2027)
-![Python](https://img.shields.io/badge/Python-Básico-64B5F6?style=flat-square&logo=python&logoColor=0F2027)
-![Google Colab](https://img.shields.io/badge/Google_Colab-Básico-64B5F6?style=flat-square&logo=googlecolab&logoColor=0F2027)
+**🗄️ &nbsp; Bases de Datos**
+<br>
+![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=for-the-badge&logo=mysql&logoColor=0F2027)
 
-**DESARROLLO WEB**
-![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logo=html5&logoColor=0F2027)
-![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=flat-square&logo=css3&logoColor=0F2027)
+<br>
 
-</td>
-<td valign="top" width="25%">
+**💻 &nbsp; Desarrollo Web**
+<br>
+![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=for-the-badge&logo=html5&logoColor=0F2027)
+![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=for-the-badge&logo=css3&logoColor=0F2027)
 
-**OFIMÁTICA**
-![Word](https://img.shields.io/badge/Word-Avanzado-B39DDB?style=flat-square&logo=microsoftword&logoColor=0F2027)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Avanzado-B39DDB?style=flat-square&logo=microsoftpowerpoint&logoColor=0F2027)
-![Teams](https://img.shields.io/badge/Teams-Avanzado-B39DDB?style=flat-square&logo=microsoftteams&logoColor=0F2027)
+<br>
 
-**CRM / ERP**
-![Salesforce](https://img.shields.io/badge/Salesforce-81C784?style=flat-square&logo=salesforce&logoColor=0F2027)
-![SAP](https://img.shields.io/badge/SAP-81C784?style=flat-square&logo=sap&logoColor=0F2027)
+**🗂️ &nbsp; Ofimática**
+<br>
+![Word](https://img.shields.io/badge/Word-Avanzado-B39DDB?style=for-the-badge&logo=microsoftword&logoColor=0F2027)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Avanzado-B39DDB?style=for-the-badge&logo=microsoftpowerpoint&logoColor=0F2027)
+![Teams](https://img.shields.io/badge/Teams-Avanzado-B39DDB?style=for-the-badge&logo=microsoftteams&logoColor=0F2027)
 
-</td>
-</tr>
-</table>
+<br>
 
+**🔗 &nbsp; CRM / ERP**
+<br>
+![Salesforce](https://img.shields.io/badge/Salesforce-81C784?style=for-the-badge&logo=salesforce&logoColor=0F2027)
+![SAP](https://img.shields.io/badge/SAP-81C784?style=for-the-badge&logo=sap&logoColor=0F2027)
+
+<br>
 <br>
 
 ## ESTADÍSTICAS DE GITHUB
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=victorespinola77z-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=F7B733&text_color=E5E7EB" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=victorespinola77z-collab&theme=tokyonight&hide_border=true&background=0B1220&stroke=38BDF8&ring=38BDF8&fire=F7B733&currStreakLabel=38BDF8" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=victorespinola77z-collab&theme=tokyonight&hide_border=true&background=0B1220&stroke=38BDF8&ring=38BDF8&fire=F7B733&currStreakLabel=38BDF8" width="48%"/>
 </div>
 
 <br>
 
-## METRICAS
+## MÉTRICAS
 
 <div align="center">
 

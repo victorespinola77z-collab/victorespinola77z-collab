@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:111C34,100:182A4D&height=200&section=header&text=Victor%20Esp%C3%ADnola&fontSize=52&fontColor=F5F7FA&fontAlignY=42&desc=BUSINESS%20INTELLIGENCE%20ANALYST&descAlignY=68&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
-**Convierto datos en decisiones de negocio** · Power BI · SQL · DAX · Automatización
+Business Intelligence & Data Analytics | Power BI | SQL | Reporting Automation | Front-End Development
 
 <br>
 

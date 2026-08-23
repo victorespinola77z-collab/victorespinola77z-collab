@@ -2,70 +2,101 @@
 
 <br>
 
-<div align="center">
+## 📊 Estadísticas
 
-![Repos](https://img.shields.io/github/directory-file-count/victorespinola77z-collab?style=for-the-badge&label=REPOSITORIOS&color=0F2027&labelColor=101B33)
-![Followers](https://img.shields.io/github/followers/victorespinola77z-collab?style=for-the-badge&label=FOLLOWERS&color=0F2027&labelColor=101B33)
-![Profile Views](https://komarev.com/ghpvc/?username=victorespinola77z-collab&style=for-the-badge&label=VISITAS&color=101B33)
+<table width="100%">
+<tr align="center">
+<td width="16.6%">
 
-</div>
-
-<br>
-
-## 📌 Proyectos destacados
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-**📊 dashboard-comercial-powerbi**
-`Public`
-
-Dashboard comercial con análisis de ventas, márgenes, posicionamiento y comportamiento de clientes.
-
-![Power BI](https://img.shields.io/badge/Power_BI-F7B733?style=flat-square&logo=powerbi&logoColor=0F2027)
+**Repositories**
+### 28
 
 </td>
-<td width="25%" valign="top">
+<td width="16.6%">
 
-**🐍 analisis-de-datos-python**
-`Public`
-
-Análisis exploratorio, limpieza y visualización de datos con Python, Pandas y Seaborn.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Projects**
+### 8
 
 </td>
-<td width="25%" valign="top">
+<td width="16.6%">
 
-**🗄️ modelo-datos-sql**
-`Public`
-
-Modelado relacional, consultas SQL y scripts para análisis de datos.
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Stars**
+### 156
 
 </td>
-<td width="25%" valign="top">
+<td width="16.6%">
 
-**⚙️ automatizacion-excel-vba**
-`Public`
+**Contributions (2024)**
+### 512
 
-Automatización de reportes y procesos en Excel utilizando VBA y Macros.
+</td>
+<td width="16.6%">
 
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+**Followers**
+### 186
+
+</td>
+<td width="16.6%">
+
+**Following**
+### 143
 
 </td>
 </tr>
 </table>
 
-> 💡 Reemplazá estos 4 repos con los nombres y links reales de tus repositorios (o fijalos directamente desde tu perfil de GitHub con **"Customize your pins"**, encima de esta sección de README).
+<br>
+
+## 📌 Proyectos destacados
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**📊 dashboard-comercial-powerbi** &nbsp;`Public`
+
+Dashboard comercial con análisis de ventas, márgenes, posicionamiento y comportamiento de clientes.
+
+🟡 Power BI &nbsp;&nbsp; ⭐ 45 &nbsp;&nbsp; 🍴 12
+
+</td>
+<td width="25%" valign="top">
+
+**🔵 analisis-de-datos-python** &nbsp;`Public`
+
+Análisis exploratorio, limpieza y visualización de datos con Python, Pandas y Seaborn.
+
+🔵 Python &nbsp;&nbsp; ⭐ 32 &nbsp;&nbsp; 🍴 22
+
+</td>
+<td width="25%" valign="top">
+
+**modelo-datos-sql** &nbsp;`Public`
+
+Modelado relacional, consultas SQL y scripts para análisis de datos.
+
+🟣 SQL &nbsp;&nbsp; ⭐ 28 &nbsp;&nbsp; 🍴 14
+
+</td>
+<td width="25%" valign="top">
+
+**automatizacion-excel-vba** &nbsp;`Public`
+
+Automatización de reportes y procesos en Excel utilizando VBA y Macros.
+
+🟢 VBA &nbsp;&nbsp; ⭐ 19 &nbsp;&nbsp; 🍴 8
+
+</td>
+</tr>
+</table>
+
+> 💡 Estos 4 repos y sus números (⭐/🍴) son los que aparecían en tu captura. Si tus repos reales tienen otro nombre o stats distintos, pasámelos y los actualizo.
 
 <br>
 
-## 🧠 Stack técnico
+## 🧠 Tecnologías principales
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="25%">
 
@@ -94,24 +125,13 @@ Automatización de reportes y procesos en Excel utilizando VBA y Macros.
 ![Python](https://img.shields.io/badge/Python-Básico-64B5F6?style=flat-square&logo=python&logoColor=0F2027)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Básico-64B5F6?style=flat-square&logo=googlecolab&logoColor=0F2027)
 
-**Desarrollo Web**
-![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logo=html5&logoColor=0F2027)
-![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=flat-square&logo=css3&logoColor=0F2027)
-![VS Code](https://img.shields.io/badge/VS_Code-Avanzado-4DD0E1?style=flat-square&logo=visualstudiocode&logoColor=0F2027)
-
 </td>
 <td valign="top" width="25%">
 
-**Ofimática**
-![Word](https://img.shields.io/badge/Word-Avanzado-B39DDB?style=flat-square&logo=microsoftword&logoColor=0F2027)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Avanzado-B39DDB?style=flat-square&logo=microsoftpowerpoint&logoColor=0F2027)
-![Teams](https://img.shields.io/badge/Teams-Avanzado-B39DDB?style=flat-square&logo=microsoftteams&logoColor=0F2027)
-![Photoshop](https://img.shields.io/badge/Photoshop-Intermedio-B39DDB?style=flat-square&logo=adobephotoshop&logoColor=0F2027)
-
-**CRM / ERP**
-![Salesforce](https://img.shields.io/badge/Salesforce-81C784?style=flat-square&logo=salesforce&logoColor=0F2027)
-![SAP](https://img.shields.io/badge/SAP-81C784?style=flat-square&logo=sap&logoColor=0F2027)
-![Zendesk](https://img.shields.io/badge/Zendesk-81C784?style=flat-square&logo=zendesk&logoColor=0F2027)
+**Otras herramientas**
+![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logo=html5&logoColor=0F2027)
+![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=flat-square&logo=css3&logoColor=0F2027)
+![VS Code](https://img.shields.io/badge/VS_Code-Avanzado-4DD0E1?style=flat-square&logo=visualstudiocode&logoColor=0F2027)
 
 </td>
 </tr>
@@ -119,16 +139,17 @@ Automatización de reportes y procesos en Excel utilizando VBA y Macros.
 
 <br>
 
-## 📈 Contribuciones
+## 📅 Contribuciones en 2024
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=victorespinola77z-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=victorespinola77z-collab&theme=tokyonight&hide_border=true&background=0A0F1E&stroke=38BDF8&ring=38BDF8&fire=F7B733&currStreakLabel=38BDF8" width="48%"/>
-</div>
+**512 contributions in 2024**
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorespinola77z-collab&theme=react-dark&hide_border=true&bg_color=0A0F1E&color=38BDF8&line=38BDF8&point=F7B733" width="97%"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorespinola77z-collab&theme=react-dark&hide_border=true&bg_color=0A0F1E&color=38BDF8&line=38BDF8&point=F7B733" width="100%"/>
+
+Menos ⬜🟩🟩🟩🟩 Más
+
+</br>
+
+💻 *Construyendo soluciones de datos, un commit a la vez.*
 
 <br>
 
@@ -137,5 +158,3 @@ Automatización de reportes y procesos en Excel utilizando VBA y Macros.
 💬 *"Lo que no se mide, no se puede mejorar."*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%"/>

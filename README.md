@@ -33,10 +33,6 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 <br>
 ![Excel](https://img.shields.io/badge/Excel-Avanzado-F7B733?style=flat-square&logoColor=0F2027)
 
-**Bases de Datos**
-
-![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
-
 </td>
 <td valign="top" width="25%">
 
@@ -49,6 +45,10 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-Avanzado-38BDF8?style=flat-square&logoColor=0F2027)
 <br>
 ![VBA](https://img.shields.io/badge/VBA-Avanzado-38BDF8?style=flat-square&logoColor=0F2027)
+
+**Bases de Datos**
+
+![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
 
 </td>
 <td valign="top" width="25%">

@@ -46,10 +46,6 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 <br>
 ![VBA](https://img.shields.io/badge/VBA-Avanzado-38BDF8?style=flat-square&logoColor=0F2027)
 
-**Bases de Datos**
-
-![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
-
 </td>
 <td valign="top" width="25%">
 
@@ -60,12 +56,6 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 ![Python](https://img.shields.io/badge/Python-Básico-64B5F6?style=flat-square&logoColor=0F2027)
 <br>
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Básico-64B5F6?style=flat-square&logoColor=0F2027)
-
-**Desarrollo Web**
-
-![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
-<br>
-![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
 
 </td>
 <td valign="top" width="25%">
@@ -78,11 +68,35 @@ Soy una persona apasionada por el aprendizaje constante y el crecimiento profesi
 <br>
 ![Teams](https://img.shields.io/badge/Teams-Avanzado-B39DDB?style=flat-square&logoColor=0F2027)
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="25%">
+
+**Bases de Datos**
+
+![SQL](https://img.shields.io/badge/SQL-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
+
+</td>
+<td valign="top" width="25%">
+
+**Desarrollo Web**
+
+![HTML](https://img.shields.io/badge/HTML-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
+<br>
+![CSS](https://img.shields.io/badge/CSS-Intermedio-4DD0E1?style=flat-square&logoColor=0F2027)
+
+</td>
+<td valign="top" width="25%">
+
 **CRM / ERP**
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-81C784?style=flat-square&logoColor=0F2027)
 <br>
 ![SAP](https://img.shields.io/badge/SAP-81C784?style=flat-square&logoColor=0F2027)
+
+</td>
+<td valign="top" width="25%">
 
 </td>
 </tr>
